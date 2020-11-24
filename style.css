@@ -1,0 +1,27 @@
+body {
+  background: #444;
+  color: #9c9c9c;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+}
+
+h1, h2 {
+  color: white;
+}
+
+p {
+  line-height: 1.5;
+}
+
+table {
+  display: none;
+}
+
+footer {
+  text-align: center;
+  font-size: 12px;
+}
+
+a {
+  color: #9cc7e6;
+}
